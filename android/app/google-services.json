@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "662215835122",
+    "project_id": "chat-and-notification-db14f",
+    "storage_bucket": "chat-and-notification-db14f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662215835122:android:749e600de8af72b3493f6b",
+        "android_client_info": {
+          "package_name": "com.example.pet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662215835122-j0njvlt7doniv1d37c9oddb3jdnft84q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pet_app",
+            "certificate_hash": "1b24e4f5ce1398d5dd065b8070af958bdae8246f"
+          }
+        },
+        {
+          "client_id": "662215835122-4fnt7idhqjgg2cfjt0knpjiu64dcu31e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWSeYdZ5WSuJG2uvM6pbcg3651zsDs5Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662215835122-4fnt7idhqjgg2cfjt0knpjiu64dcu31e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "662215835122-hsiu244he9q2irgmfrmp2e3jsikkr5er.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.petApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

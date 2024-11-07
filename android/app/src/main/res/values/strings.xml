@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pawwwy</string>
+    <string name="facebook_app_id">1557025858259862</string>
+    <string name="fb_login_protocol_scheme">c31cc94aedd1f78dfab7606e345a3124</string>
+    <string name="facebook_client_token">87e1bcfc47e296d5de0770256a929c3f</string>
+</resources>
